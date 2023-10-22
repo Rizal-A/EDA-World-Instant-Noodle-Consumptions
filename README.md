@@ -1,4 +1,4 @@
-# EDA-World_Instant_Noodle_Consumptions
+# EDA-World Instant Noodle Consumptions
 
 This is a Exploratory Data Analysis of the World Instant Noodle Consumptions.
 
