@@ -1,4 +1,6 @@
-# EDA-World Instant Noodle Consumptions
+# Exploratory Data Analysis World Instant Noodle Consumptions
+![World Instant Noodles](https://github.com/Rizal-A/EDA-World-Instant-Noodle-Consumptions/blob/main/assets/World%20Instant%20Noodles.png)
+
 
 This is a Exploratory Data Analysis of the World Instant Noodle Consumptions.
 
@@ -15,8 +17,7 @@ This public dataset was obtained from Kaggle Dataset [World Instant Noodle Consu
 7. Continent: The continent to which the country belongs
 8. 2022 Population: The population of the country in 2022
 
-**The things done on this dataset are**
-
+# The things done on this dataset are
 1. Preparation Data
 2. Data Cleaning (Missing Values, Duplicated Check)
 3. Data Understanding
@@ -25,8 +26,7 @@ This public dataset was obtained from Kaggle Dataset [World Instant Noodle Consu
    * Bivariate Analysis
 5. EDA Conclusion
 
-**Here the results**
-
+# Here the results
 1. After EDA was carried out, it was seen that consumption of instant noodles increased every year
 2. For the continent that consumes the most instant noodles, it is dominated by the Asian continent, perhaps one of the biggest factors is the large population and cultural factors on the Asian continent which consumes instant noodles because the price is cheap and the food is easy, fast and simple to serve.
 3. The people who spend the most money consuming instant noodles are China, Indonesia and India.
